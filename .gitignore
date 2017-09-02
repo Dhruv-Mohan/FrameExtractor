@@ -259,3 +259,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/FrameExtractor/FrameExtractor.sln
+/FrameExtractor/FrameExtractor/pugixml.hpp
+/FrameExtractor/FrameExtractor/pugiconfig.hpp
+/FrameExtractor/FrameExtractor/pugixml.cpp
+/FrameExtractor/FrameExtractor/pugixml.hpp
+/FrameExtractor/FrameExtractor/FrameExtractor.vcxproj.filters
+/FrameExtractor/FrameExtractor/FrameExtractor.vcxproj
